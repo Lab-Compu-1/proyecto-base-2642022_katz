@@ -2554,7 +2554,7 @@
 	)
 	(text "Main Circuit"
 		(exclude_from_sim no)
-		(at 55.1942 140.9954 0)
+		(at 73.914 137.414 0)
 		(effects
 			(font
 				(size 1.27 1.27)
