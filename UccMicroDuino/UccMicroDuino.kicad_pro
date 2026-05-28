@@ -241,7 +241,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "version Test2024"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -670,7 +670,7 @@
       {
         "filename": "UccMicroDuino.kicad_sch",
         "name": "UccMicroDuino",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "f2c20679-f28d-47ad-9191-2bfbde129570"
       }
     ],
     "used_designators": "",
@@ -679,7 +679,7 @@
   "sheets": [
     [
       "f2c20679-f28d-47ad-9191-2bfbde129570",
-      "Root"
+      "UccMicroDuino"
     ]
   ],
   "text_variables": {},
