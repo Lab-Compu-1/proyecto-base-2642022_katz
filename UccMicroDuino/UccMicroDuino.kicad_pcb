@@ -1080,7 +1080,7 @@
 			(uuid "44c4d8ee-61b2-4cfb-86e7-1222fc3a18b8")
 		)
 		(fp_text user "UCC - uDuino"
-			(at 35.3 5.5 0)
+			(at 34.3 5 0)
 			(layer "F.SilkS")
 			(uuid "829e5b13-1a0a-4a89-aaeb-a5d44bec6524")
 			(effects
